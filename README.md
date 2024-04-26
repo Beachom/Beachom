@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beachom
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Javascript, Typescript, and Python
 - 📫 How to reach me Tchristiank11@gmail.com or https://www.linkedin.com/in/tucker-kelly-2236662ab/
 
 <!---
