@@ -26,7 +26,7 @@ environment. Developed entirely in Python, PySlots offers a captivating and inte
 simulates the excitement of playing slots without leaving the comfort of your computer. 
 2. Conversify- https://github.com/Beachom/try-chatgpt-api: Conversify is an innovative project that harnesses the power of the ChatGPT API to create an engaging and 
 interactive chatbot experience. Developed using JavaScript, Node.js, HTML, and CSS, Conversify seamlessly 
-integrates advanced natural language processing capabilities into a user-friendly web application
+integrates advanced natural language processing capabilities into a user-friendly web application(Still in Development).
 
 Feel free to explore them and provide feedback!
 
