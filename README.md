@@ -7,7 +7,7 @@ Hey there! I'm Christian, a passionate Frontend Engineer based in Houston, Texas
 - 💼 I'm currently working as a SWE Student at Arizona State University.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💬 Feel free to reach out to me to discuss AI, Machine Learning, Project Ideas, and more.
-- 📫 You can contact me via tchristiank11@gmail.com.
+- 📫 You can contact me via my email: tchristiank11@gmail.com.
 
 ## Technologies & Tools
 
