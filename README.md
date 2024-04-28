@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Beachom's GitHub Profile! 👋
 
-Hey there! I'm [Your Name], a passionate [Your Profession/Interest] based in [Your Location]. Welcome to my GitHub profile, where I share my projects, experiments, and thoughts on various topics.
+Hey there! I'm Christian, a passionate Frontend Engineer based in Houston, Texas. Welcome to my GitHub profile, where I share my projects, experiments, and thoughts on various topics.
 
 ## About Me
 
