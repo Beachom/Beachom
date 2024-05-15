@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi 👋, I'm Tucker</h1>
 <h3 align="center">An Aspiring AI Engineer from Houston, TX</h3>
 
 - 🔭 I’m currently working on [Conversify](https://github.com/Beachom/try-chatgpt-api)
