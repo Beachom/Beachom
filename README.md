@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tucker-kelly-2236662ab/](https://www.linkedin.com/in/tucker-kelly-2236662ab/)
 
-- ⚡ Fun fact **I have a German Shepherd named Brody**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tucker-kelly-2236662ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tucker kelly" height="30" width="40" /></a>
