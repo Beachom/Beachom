@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tucker</h1>
 <h3 align="center">An Aspiring Full-Stack Developer from Houston, TX</h3>
 
-- 🔭 I’m currently working on [Conversify](https://github.com/Beachom/try-chatgpt-api)
+- 🔭 I’m currently learning Penetration Testing
 
 - 💬 Ask me about **AI, Machine Learning, Project Ideas**
 
