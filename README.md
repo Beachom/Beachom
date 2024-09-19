@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tucker</h1>
-<h3 align="center">An Aspiring Full-Stack Developer from Houston, TX</h3>
+<h3 align="center">An Aspiring Data Scientist from Houston, TX</h3>
 
 - 🔭 I’m currently learning Penetration Testing
 
